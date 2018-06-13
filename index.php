@@ -23,6 +23,9 @@
 <body>
 <div class="container mt-5">
 	<div class="row">
+		<button class="btn btn-danger" onclick="window.location = '/logout.php';">Log Out</button>
+	</div>
+	<div class="row">
 		<div class="col-md-12">
 			<h1 class="display-4 text-center">Welcome <?php echo $firstName." ".$lastName ?></h1>
 			<p class="lead text-center">Click on any message to make a call to its coressponding number...</p>

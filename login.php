@@ -30,7 +30,7 @@
                 <img class="mx-auto d-block" src="./images/login.png" alt="Login picture" width="256" height="256">
             </div>
             <div class="col-md-6 mx-auto p-5">
-                <input id="login-button" type="button" onclick="window.location = '<?php echo $loginURL ?>';" value="Log In With Google" class="btn btn-outline-secondary btn-lg ml-0 mt-5 d-block">
+                <input id="login-button" type="button" onclick="window.location = '<?php echo $loginURL ?>';" value="Log In With Google" class="btn btn-primary btn-lg ml-0 mt-5 d-block">
             </div>
         </div>
     </div>
