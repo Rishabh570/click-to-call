@@ -3,13 +3,13 @@ require __DIR__ . '/vendor/autoload.php';
 use Twilio\Rest\Client;
 
 // Your Account SID and Auth Token from twilio.com/console
-$account_sid = 'AC576ad95382ee2920d2a6e2a3298ed312';
-$auth_token = '06f479cd45d8a90d33197816084390bb';
+$account_sid = 'AC46ab99cc43af89e7ba40b15dd34f24fe';
+$auth_token = '9d8704102601b3df26b4ee5eac4df919';
 // In production, these should be environment variables. E.g.:
 // $auth_token = $_ENV["TWILIO_ACCOUNT_SID"]
 
 // A Twilio number you own with SMS capabilities
-$twilio_number = "+12109413895 ";
+$twilio_number = "+14158786844 ";
 
 // Where to make a voice call (your cell phone?)
 $destNum = $_POST["targetNumber"];
