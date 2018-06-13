@@ -36,8 +36,8 @@
 		<div class="col-lg-8 col-md-9 col-sm-12 mx-auto d-block">
 			
 			<div class="row messages mb-3 px-2">
-				<h4 class="display-4 col-md-8 primary-content" >Message 1</h4>
-				<div class="col-md-4 primary-content">
+				<h4 class="display-4 d-inline-block col-md-5 col-sm-5 col-lg-6 primary-content" >Message 1</h4>
+				<div class="col-md-7 col-sm-7 col-lg-6 d-inline-block primary-content">
 					<p>Recepient 1</p>
 					<p class="lead number">+919159876164</p>
 				</div>
@@ -48,8 +48,8 @@
 			</div>
 
 			<div class="row messages mb-3 px-2">
-				<h4 class="display-4 col-md-8 primary-content">Message 2</h4>
-				<div class="col-md-4 primary-content">
+				<h4 class="display-4 d-inline-block col-md-5 col-sm-5 col-lg-6 primary-content">Message 2</h4>
+				<div class="col-md-7 col-sm-7 col-lg-6 d-inline-block primary-content">
 					<p>Me</p>
 					<p class="lead number">+918750644313</p>
 				</div>
