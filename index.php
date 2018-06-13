@@ -36,7 +36,7 @@
 				<h4 class="display-4 col-md-8 primary-content" >Message 1</h4>
 				<div class="col-md-4 primary-content">
 					<p>Recepient 1</p>
-					<p class="lead number">+918588955813</p>
+					<p class="lead number">+919159876164</p>
 				</div>
 				<div class='hvr-icon-buzz number-div p-1 m-auto' style='display: none;'>
 					<img class='hvr-icon d-inline-block mr-2' src='./images/phone.png' width='45' height='45'/>
@@ -47,8 +47,8 @@
 			<div class="row messages mb-3 px-2">
 				<h4 class="display-4 col-md-8 primary-content">Message 2</h4>
 				<div class="col-md-4 primary-content">
-					<p>Rishabh</p>
-					<p class="lead number">+918750644313</p>
+					<p>Me</p>
+					<p class="lead number">+918750644313/p>
 				</div>
 				<div class='hvr-icon-buzz number-div p-1 m-auto' style='display: none;'>
 					<img class='hvr-icon d-inline-block mr-2' src='./images/phone.png' width='45' height='45'/>
