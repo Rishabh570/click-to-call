@@ -48,7 +48,7 @@
 				<h4 class="display-4 col-md-8 primary-content">Message 2</h4>
 				<div class="col-md-4 primary-content">
 					<p>Me</p>
-					<p class="lead number">+918750644313/p>
+					<p class="lead number">+918750644313</p>
 				</div>
 				<div class='hvr-icon-buzz number-div p-1 m-auto' style='display: none;'>
 					<img class='hvr-icon d-inline-block mr-2' src='./images/phone.png' width='45' height='45'/>
@@ -150,7 +150,7 @@
 			console.log("message tile is clicked, number is: ", tar);
 			// Fire AJAX req when a message is clicked
 			$.ajax({
-				url: '/google-login/call.php',
+				url: '/call.php',
 				method: 'POST',
 				dataType: 'json',
 				data: {
