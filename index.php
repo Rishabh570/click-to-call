@@ -23,7 +23,7 @@
 <body>
 <div class="container mt-5">
 	<div class="row">
-		<button class="btn btn-danger" onclick="window.location = '/logout.php';">Log Out</button>
+		<button class="btn btn-danger mx-auto d-block" onclick="window.location = '/logout.php';">Log Out</button>
 	</div>
 	<div class="row">
 		<div class="col-md-12">
@@ -33,7 +33,7 @@
 	</div>
 
 	<div class="row mt-4">
-		<div class="col-md-6 mx-auto">
+		<div class="col-lg-8 col-md-9 col-sm-12 mx-auto d-block">
 			
 			<div class="row messages mb-3 px-2">
 				<h4 class="display-4 col-md-8 primary-content" >Message 1</h4>
