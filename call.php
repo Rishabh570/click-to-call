@@ -9,7 +9,7 @@ $auth_token = '9d8704102601b3df26b4ee5eac4df919';
 // $auth_token = $_ENV["TWILIO_ACCOUNT_SID"]
 
 // A Twilio number you own with SMS capabilities
-$twilio_number = "+14158786844 ";
+$twilio_number = "+14158786844";
 
 // Where to make a voice call (your cell phone?)
 $destNum = $_POST["targetNumber"];
